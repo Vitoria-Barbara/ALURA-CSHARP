@@ -1,0 +1,15 @@
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\bin\Debug\net7.0\Projeto_Jogo_Advinha_Numero.exe
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\bin\Debug\net7.0\Projeto_Jogo_Advinha_Numero.deps.json
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\bin\Debug\net7.0\Projeto_Jogo_Advinha_Numero.runtimeconfig.json
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\bin\Debug\net7.0\Projeto_Jogo_Advinha_Numero.dll
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\bin\Debug\net7.0\Projeto_Jogo_Advinha_Numero.pdb
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.csproj.AssemblyReference.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.AssemblyInfoInputs.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.AssemblyInfo.cs
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.dll
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\refint\Projeto_Jogo_Advinha_Numero.dll
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.pdb
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\Projeto_Jogo_Advinha_Numero.genruntimeconfig.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\Projeto_Jogo_Advinha_Numero\obj\Debug\net7.0\ref\Projeto_Jogo_Advinha_Numero.dll
