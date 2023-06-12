@@ -1,0 +1,15 @@
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\TESTE GIT 1.exe
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\TESTE GIT 1.deps.json
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\TESTE GIT 1.runtimeconfig.json
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\TESTE GIT 1.dll
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\TESTE GIT 1.pdb
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.csproj.AssemblyReference.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.AssemblyInfoInputs.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.AssemblyInfo.cs
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.dll
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\refint\TESTE GIT 1.dll
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.pdb
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\TESTE GIT 1.genruntimeconfig.cache
+C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\ref\TESTE GIT 1.dll
