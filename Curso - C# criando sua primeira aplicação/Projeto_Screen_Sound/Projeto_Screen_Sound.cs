@@ -2,7 +2,7 @@
 //Screen Sound
 
 string mensagemDeBoasVindas = "\nBoas Vindas ao Screen Sound";
-List<string> ListaDasBandas = new List<string>();   
+List<string> ListaDasBandas = new List<string>  { "U2", "The Beatles", "Calypson" } ;   
 
 void ExibirLogo()
 {
@@ -34,7 +34,7 @@ void ExibirOpçõesDoMenu()
     {
         case 1 : RegistrarBandas();
             break; 
-        case 2 : Console.WriteLine("Você escolheu a opção :" + opcaoEscolhidaNumerica);
+        case 2 : MostrarBandasRegistradas();
             break;
         case 3 : Console.WriteLine("Você escolheu a opção :" + opcaoEscolhidaNumerica);
             break;
@@ -51,13 +51,39 @@ void ExibirOpçõesDoMenu()
 void RegistrarBandas() 
 {
     Console.Clear();
+    Console.WriteLine("**************************");
     Console.WriteLine("Registro de bandas:");
+    Console.WriteLine("**************************\n");
     Console.Write("Digite o nome da banda que deseja registrar: ");
     string nomeDaBanda = Console.ReadLine()!;//nao nulo
     ListaDasBandas.Add(nomeDaBanda);
     //interpolação de string 
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso");
     Thread.Sleep(2000);
+    Console.Clear();
+    ExibirOpçõesDoMenu();
+}
+
+void MostrarBandasRegistradas()
+{
+    Console.Clear();
+    Console.WriteLine("********************************************");
+    Console.WriteLine("Exibindo todas as bandas Registradas:");
+    Console.WriteLine("********************************************\n");
+    /*for(int i = 0; i < ListaDasBandas.Count; i++ )
+    {
+        Console.WriteLine($"Banda: {ListaDasBandas[i]}");
+    }*/
+
+    //ForEach - para somente percorrer a lista sem usar o indice.
+    foreach (string banda in ListaDasBandas)
+    {
+        Console.WriteLine($"Banda: {banda}");
+    }
+
+
+    Console.WriteLine("\nDigite uma tecla para voltar ao menu:");
+    Console.ReadKey(); //qualquer tecla 
     Console.Clear();
     ExibirOpçõesDoMenu();
 }
