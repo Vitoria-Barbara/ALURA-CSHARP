@@ -42,7 +42,7 @@ void ExibirOpçõesDoMenu()
             break;
         case -1 : Console.WriteLine("xau xau xau");
             break;
-        default: Console.WriteLine("Opção invállida");
+        default: Console.WriteLine("Opção invállida"); 
             break;
     }
 
@@ -51,12 +51,11 @@ void ExibirOpçõesDoMenu()
 void RegistrarBandas() 
 {
     Console.Clear();
-    Console.WriteLine("**************************");
-    Console.WriteLine("Registro de bandas:");
-    Console.WriteLine("**************************\n");
+    ExibirTituloDaOpcao("Registro de bandas:");
     Console.Write("Digite o nome da banda que deseja registrar: ");
     string nomeDaBanda = Console.ReadLine()!;//nao nulo
     ListaDasBandas.Add(nomeDaBanda);
+
     //interpolação de string 
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso");
     Thread.Sleep(2000);
@@ -67,9 +66,8 @@ void RegistrarBandas()
 void MostrarBandasRegistradas()
 {
     Console.Clear();
-    Console.WriteLine("********************************************");
-    Console.WriteLine("Exibindo todas as bandas Registradas:");
-    Console.WriteLine("********************************************\n");
+    ExibirTituloDaOpcao("Exibindo todas as bandas Registradas:");
+
     /*for(int i = 0; i < ListaDasBandas.Count; i++ )
     {
         Console.WriteLine($"Banda: {ListaDasBandas[i]}");
@@ -86,6 +84,16 @@ void MostrarBandasRegistradas()
     Console.ReadKey(); //qualquer tecla 
     Console.Clear();
     ExibirOpçõesDoMenu();
+}
+
+void ExibirTituloDaOpcao(string titulo) //recebe "titulo" como parametro
+{
+    int quantidadeDeLetras = titulo.Length;
+    //loop com for ou add em uma string oc caracteres desejados.
+    string asteriscos = string.Empty.PadLeft(quantidadeDeLetras, '*');//add na esquerda da string vazia um caractere.
+    Console.WriteLine(asteriscos);
+    Console.WriteLine(titulo);
+    Console.WriteLine(asteriscos+ "\n");
 }
 
 ExibirOpçõesDoMenu();
