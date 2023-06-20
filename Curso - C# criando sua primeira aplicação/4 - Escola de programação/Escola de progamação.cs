@@ -16,9 +16,9 @@
     }}
 };
 
-/*List<int> notasPythonMaria = notasAlunos["Maria"]["Python"];
-double mediaMariaEmPython = notasPythonMaria.Average();//calcula a média
-Console.WriteLine(mediaMariaEmPython);*/
+/*List<int> notasPythonMaria = notasAlunos["Maria"]["Python"];*/
+double mediaMariaEmPython = notasAlunos["Maria"]["Python"].Average();//calcula a média
+Console.WriteLine("Media: " + mediaMariaEmPython);
 
 foreach (var aluno in notasAlunos) // {ana ...} 
 {

@@ -13,3 +13,18 @@ C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira apl
 C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\4 - Escola de programação\Escola de programação\obj\Debug\net7.0\Escola de programação.pdb
 C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\4 - Escola de programação\Escola de programação\obj\Debug\net7.0\Escola de programação.genruntimeconfig.cache
 C:\Users\Vitoria Barbara\Desktop\GIT - ALURA\Curso - C# criando sua primeira aplicação\4 - Escola de programação\Escola de programação\obj\Debug\net7.0\ref\Escola de programação.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\bin\Debug\net7.0\Escola de programação.exe
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\bin\Debug\net7.0\Escola de programação.deps.json
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\bin\Debug\net7.0\Escola de programação.runtimeconfig.json
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\bin\Debug\net7.0\Escola de programação.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\bin\Debug\net7.0\Escola de programação.pdb
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.csproj.AssemblyReference.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.AssemblyInfoInputs.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.AssemblyInfo.cs
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\refint\Escola de programação.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.pdb
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\Escola de programação.genruntimeconfig.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\4 - Escola de programação\obj\Debug\net7.0\ref\Escola de programação.dll

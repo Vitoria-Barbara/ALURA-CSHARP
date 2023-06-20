@@ -10,7 +10,7 @@
 * são quantas vezes esse carro foi vendido por ano, calcule a média de uma chave específica.*/
 
 /*List<int> notasPythonMaria = notasAlunos["Maria"]["Python"];
-double mediaMariaEmPython = notasPythonMaria.Average();//calcula a média
+double mediaMariaEmPython = notasAlunos["Maria"]["Python"].Average();//calcula a média
 Console.WriteLine(mediaMariaEmPython);*/
 
 /*List<int> vendas = vendasCarros["Bugatti Veyron"];
