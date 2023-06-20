@@ -7,14 +7,15 @@
 };
 
 /*Com base na lista de super carros fornecida acima, onde a chave é o nome do carro e os valores
- * são quantas vezes esse carro foi vendido por ano, calcule a média de uma chave específica.*/
+* são quantas vezes esse carro foi vendido por ano, calcule a média de uma chave específica.*/
 
 /*List<int> notasPythonMaria = notasAlunos["Maria"]["Python"];
 double mediaMariaEmPython = notasPythonMaria.Average();//calcula a média
 Console.WriteLine(mediaMariaEmPython);*/
 
-
-
-List<int> vendas = vendasCarros["Bugatti Veyron"];
+/*List<int> vendas = vendasCarros["Bugatti Veyron"];
 double media = vendas.Average();
-Console.WriteLine(media);
+Console.WriteLine(media);*/
+
+double mediaVendasBugatti = vendasCarros["Bugatti Veyron"].Average();
+Console.WriteLine("Média de vendas do Bugatti Veyron: " + mediaVendasBugatti);
