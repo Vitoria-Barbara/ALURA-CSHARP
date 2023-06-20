@@ -1,8 +1,14 @@
 ﻿//casesensitive
+//fortemente tipada
 //Screen Sound
 
 string mensagemDeBoasVindas = "\nBoas Vindas ao Screen Sound";
-List<string> ListaDasBandas = new List<string>  { "U2", "The Beatles", "Calypson" } ;   
+//List<string> ListaDasBandas = new List<string>  { "U2", "The Beatles", "Calypson" } ;   
+
+Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
+bandasRegistradas.Add("Link Park", new List<int> { 10, 8, 7, 6 });
+bandasRegistradas.Add("The Beatles", new List<int> ());
+
 
 void ExibirLogo()
 {
@@ -54,7 +60,9 @@ void RegistrarBandas()
     ExibirTituloDaOpcao("Registro de bandas:");
     Console.Write("Digite o nome da banda que deseja registrar: ");
     string nomeDaBanda = Console.ReadLine()!;//nao nulo
-    ListaDasBandas.Add(nomeDaBanda);
+
+    //ListaDasBandas.Add(nomeDaBanda);
+    bandasRegistradas.Add(nomeDaBanda, new List<int>());
 
     //interpolação de string 
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso");
@@ -74,7 +82,7 @@ void MostrarBandasRegistradas()
     }*/
 
     //ForEach - para somente percorrer a lista sem usar o indice.
-    foreach (string banda in ListaDasBandas)
+    foreach (string banda in bandasRegistradas.Keys)//key é o primeiro parametro
     {
         Console.WriteLine($"Banda: {banda}");
     }
