@@ -1,0 +1,15 @@
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\bin\Debug\net7.0\Lista de super carros.exe
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\bin\Debug\net7.0\Lista de super carros.deps.json
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\bin\Debug\net7.0\Lista de super carros.runtimeconfig.json
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\bin\Debug\net7.0\Lista de super carros.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\bin\Debug\net7.0\Lista de super carros.pdb
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.csproj.AssemblyReference.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.AssemblyInfoInputs.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.AssemblyInfo.cs
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\refint\Lista de super carros.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.pdb
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\Lista de super carros.genruntimeconfig.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\5 - Lista de super carros\obj\Debug\net7.0\ref\Lista de super carros.dll

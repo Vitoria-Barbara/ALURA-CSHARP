@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lista de super carros/1.0.0": {
+        "runtime": {
+          "Lista de super carros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista de super carros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

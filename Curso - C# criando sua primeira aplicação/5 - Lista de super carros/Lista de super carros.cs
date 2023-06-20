@@ -5,3 +5,16 @@
     { "Pagani Huayra", new List<int> { 4, 5, 6, 5, 4 } },
     { "Ferrari LaFerrari", new List<int> { 7, 6, 5, 8, 10 } }
 };
+
+/*Com base na lista de super carros fornecida acima, onde a chave é o nome do carro e os valores
+ * são quantas vezes esse carro foi vendido por ano, calcule a média de uma chave específica.*/
+
+/*List<int> notasPythonMaria = notasAlunos["Maria"]["Python"];
+double mediaMariaEmPython = notasPythonMaria.Average();//calcula a média
+Console.WriteLine(mediaMariaEmPython);*/
+
+
+
+List<int> vendas = vendasCarros["Bugatti Veyron"];
+double media = vendas.Average();
+Console.WriteLine(media);
