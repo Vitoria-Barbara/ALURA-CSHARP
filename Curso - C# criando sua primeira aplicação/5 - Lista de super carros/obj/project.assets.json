@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\5 - Lista de super carros\\Lista de super carros\\Lista de super carros.csproj",
+      "projectUniqueName": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\5 - Lista de super carros\\Lista de super carros.csproj",
       "projectName": "Lista de super carros",
-      "projectPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\5 - Lista de super carros\\Lista de super carros\\Lista de super carros.csproj",
+      "projectPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\5 - Lista de super carros\\Lista de super carros.csproj",
       "packagesPath": "C:\\Users\\Vitoria Barbara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\5 - Lista de super carros\\Lista de super carros\\obj\\",
+      "outputPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\5 - Lista de super carros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
