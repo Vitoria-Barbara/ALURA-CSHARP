@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\TESTE GIT 1.csproj": {}
+    "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\for and foreach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\TESTE GIT 1.csproj": {
+    "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\for and foreach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\TESTE GIT 1.csproj",
-        "projectName": "TESTE GIT 1",
-        "projectPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\TESTE GIT 1.csproj",
+        "projectUniqueName": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\for and foreach.csproj",
+        "projectName": "for and foreach",
+        "projectPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\for and foreach.csproj",
         "packagesPath": "C:\\Users\\Vitoria Barbara\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\obj\\",
         "projectStyle": "PackageReference",

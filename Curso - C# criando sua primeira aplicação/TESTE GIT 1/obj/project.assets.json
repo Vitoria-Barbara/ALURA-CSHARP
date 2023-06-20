@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitoria Barbara\\Desktop\\GIT - ALURA\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\TESTE GIT 1.csproj",
-      "projectName": "TESTE GIT 1",
-      "projectPath": "C:\\Users\\Vitoria Barbara\\Desktop\\GIT - ALURA\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\TESTE GIT 1.csproj",
+      "projectUniqueName": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\for and foreach.csproj",
+      "projectName": "for and foreach",
+      "projectPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\for and foreach.csproj",
       "packagesPath": "C:\\Users\\Vitoria Barbara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitoria Barbara\\Desktop\\GIT - ALURA\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\obj\\",
+      "outputPath": "C:\\Users\\Vitoria Barbara\\Desktop\\alura\\Curso - C# criando sua primeira aplicação\\TESTE GIT 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
