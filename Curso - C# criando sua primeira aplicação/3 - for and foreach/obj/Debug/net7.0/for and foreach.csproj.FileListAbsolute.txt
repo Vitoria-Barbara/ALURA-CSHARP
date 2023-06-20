@@ -1,0 +1,15 @@
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\for and foreach.exe
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\for and foreach.deps.json
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\for and foreach.runtimeconfig.json
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\for and foreach.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\bin\Debug\net7.0\for and foreach.pdb
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.csproj.AssemblyReference.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.AssemblyInfoInputs.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.AssemblyInfo.cs
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\refint\for and foreach.dll
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.pdb
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\for and foreach.genruntimeconfig.cache
+C:\Users\Vitoria Barbara\Desktop\alura\Curso - C# criando sua primeira aplicação\TESTE GIT 1\obj\Debug\net7.0\ref\for and foreach.dll
