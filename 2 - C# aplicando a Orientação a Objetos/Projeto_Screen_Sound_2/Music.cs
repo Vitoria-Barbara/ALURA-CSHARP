@@ -20,7 +20,7 @@
         }
      }*/
 
-    public string DescricaoResumida => //GET (LAMBDA) >> arrow function (função de seta)
+    public string DescricaoResumida => //GET (LAMBDA) >> arrow function (função de seta) >> (parametros) => expressao
         $"A música {Nome} pertence a banda {Artista}"; 
 
     //set - escreve 
