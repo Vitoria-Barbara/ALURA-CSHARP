@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0061: Usar o corpo do bloco para função local
+csharp_style_expression_bodied_local_functions = false
