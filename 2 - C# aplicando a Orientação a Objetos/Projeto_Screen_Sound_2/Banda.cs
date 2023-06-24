@@ -7,12 +7,12 @@
         Nome = nome;
     }
 
-    public string Nome { get;}
+    public string Nome { get;} //com retorno
     public void AdcionarAlbum(Album album) //um método sem retorno que recebe a classe Album como argumento {parametro} de entrada
     {
         albums.Add(album);
     }
-    public void ExibirDiscografia()
+    public void ExibirDiscografia() // void = sem retorno
     {
         Console.WriteLine($"Discografia da Banda: {Nome}");
         foreach(Album album in albums)
