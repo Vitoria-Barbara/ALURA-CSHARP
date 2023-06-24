@@ -6,22 +6,19 @@ Banda queen = new Banda("QUEEN"); // instancia uma banda
 
 Album albumDoQueen = new Album("A night at the opera"); // instancia um album
 
-Musica musica1 = new Musica(queen, "Love of my life") //instancia de uma musica com o parametro exigido (OBRIGATORIOS) pelo construtor da class musica
+Genero rock = new Genero("Rock");
+
+Musica musica1 = new Musica(queen, "Love of my life",rock ) //instancia de uma musica com o parametro exigido (OBRIGATORIOS) pelo construtor da class musica
 {
     Duracao = 315,
     Disponivel = true,
 };
-musica1.Duracao = 213; //segundos
 
-Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
+Musica musica2 = new Musica(queen, "Bohemian Rhapsody", rock)
 {  // informações OPCIONAIS
     Duracao = 253,
     Disponivel = true,
 };
-
-
-Genero genero = new Genero();
-genero.Nome = "GGGGGGGG";
 
 //relacinadores
 queen.AdcionarAlbum(albumDoQueen); // chama o metodo que add um album x na banda y
